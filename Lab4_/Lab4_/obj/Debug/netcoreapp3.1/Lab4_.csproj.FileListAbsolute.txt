@@ -1,0 +1,14 @@
+C:\Users\ekate\source\repos\Lab4_\Lab4_\bin\Debug\netcoreapp3.1\Lab4_.exe
+C:\Users\ekate\source\repos\Lab4_\Lab4_\bin\Debug\netcoreapp3.1\Lab4_.deps.json
+C:\Users\ekate\source\repos\Lab4_\Lab4_\bin\Debug\netcoreapp3.1\Lab4_.runtimeconfig.json
+C:\Users\ekate\source\repos\Lab4_\Lab4_\bin\Debug\netcoreapp3.1\Lab4_.runtimeconfig.dev.json
+C:\Users\ekate\source\repos\Lab4_\Lab4_\bin\Debug\netcoreapp3.1\Lab4_.dll
+C:\Users\ekate\source\repos\Lab4_\Lab4_\bin\Debug\netcoreapp3.1\Lab4_.pdb
+C:\Users\ekate\source\repos\Lab4_\Lab4_\obj\Debug\netcoreapp3.1\Lab4_.csproj.AssemblyReference.cache
+C:\Users\ekate\source\repos\Lab4_\Lab4_\obj\Debug\netcoreapp3.1\Lab4_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekate\source\repos\Lab4_\Lab4_\obj\Debug\netcoreapp3.1\Lab4_.AssemblyInfoInputs.cache
+C:\Users\ekate\source\repos\Lab4_\Lab4_\obj\Debug\netcoreapp3.1\Lab4_.AssemblyInfo.cs
+C:\Users\ekate\source\repos\Lab4_\Lab4_\obj\Debug\netcoreapp3.1\Lab4_.csproj.CoreCompileInputs.cache
+C:\Users\ekate\source\repos\Lab4_\Lab4_\obj\Debug\netcoreapp3.1\Lab4_.dll
+C:\Users\ekate\source\repos\Lab4_\Lab4_\obj\Debug\netcoreapp3.1\Lab4_.pdb
+C:\Users\ekate\source\repos\Lab4_\Lab4_\obj\Debug\netcoreapp3.1\Lab4_.genruntimeconfig.cache
